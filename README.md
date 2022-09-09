@@ -1,7 +1,8 @@
-========================================================Twitter bot that tweets every morning.
+Twitter bot that tweets every morning.
 
 
 ====================================================================================
+
 How to run:
 
 - Clone this repository
